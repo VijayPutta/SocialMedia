@@ -1,4 +1,4 @@
 {
-   "mongoURI" : "mongodb+srv://nivedh:<Wsxedc123@>@devconnector.bmkp38o.mongodb.net/react?retryWrites=true&w=majority&appName=DevConnector"
-   
+   "mongoURI" : "mongodb+srv://nivedh:eHhM0DoQ5HH9nCBZ@devconnector.bmkp38o.mongodb.net/react?retryWrites=true&w=majority&appName=DevConnector",
+   "jwtSecret" :"mysecrettoken"
 }
